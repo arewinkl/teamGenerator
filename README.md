@@ -1,6 +1,6 @@
 # Homework Eight Team Builder 
 
-![readmeGen](https://img.shields.io/github/languages/top/arewinkl/readmeGen?color=green&label=JavaScript)
+![readmeGen](https://img.shields.io/github/languages/top/arewinkl/teamGenerator?color=green&label=JavaScript)
 
 ---
 
@@ -31,8 +31,8 @@ In order to get this __Team Generator__ to work, the first task was to download 
 ## ScreenShots
 
 Here are a few screenshots that I took throughout this homework assignment:
-![screen shot](assets/testBuilder.png)
-![screen shot](assets/employeetestpage.png)
+![screen shot](Assets/testBuilder.png)
+![screen shot](Assets/employeetestpage.png)
 
 ---
 
@@ -53,7 +53,7 @@ This assignment came with quite a few challenges, and the first one that I encou
 ## Gif
 
 Here is the Team Builder in action:
-![gif](assets/teamBuilder.gif)
+![gif](Assets/teamBuilder.gif)
 
 ---
 
